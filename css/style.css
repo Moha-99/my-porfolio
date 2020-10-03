@@ -60,11 +60,11 @@ body {
 }
 
 .navbar-dark .navbar-nav .active > .nav-link {
-  color: #ff3058;
+  color: #bfadb0;
 }
 
 .navbar-dark .navbar-nav .nav-link:hover {
-  color: #ff3058;
+  color: #bfadb0;
 }
 
 /* Header */
