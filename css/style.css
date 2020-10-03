@@ -1,4 +1,5 @@
 /* #FF305B */
+/* #bfadb0 */
 
 /* General */
 * {
@@ -10,7 +11,7 @@ body {
 }
 
 .text-prime {
-  color: #ff3058;
+  color: #bfadb0;
 }
 
 /* .section-title {
@@ -36,13 +37,13 @@ body {
 }
 
 .navbar-dark .navbar-brand {
+  color: #bfadb0;
   padding-bottom: 0;
   margin-bottom: 0;
 }
 
 .navbar-dark .navbar-brand,
 .navbar-dark .navbar-brand:hover {
-  color: #ff3058;
   font-weight: bold;
   font-size: 1.5rem;
 }
